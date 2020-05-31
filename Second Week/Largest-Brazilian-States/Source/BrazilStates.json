@@ -1,0 +1,137 @@
+[
+  {
+    "Name": "Acre",
+    "Acronym": "AC",
+    "Area": 164123.040
+  },
+  {
+    "Name": "Alagoas",
+    "Acronym": "AL",
+    "Area": 27778.506
+  },
+  {
+    "Name": "Amapá",
+    "Acronym": "AP",
+    "Area": 142828.521
+  },
+  {
+    "Name": "Amazonas",
+    "Acronym": "AM",
+    "Area": 1559159.148
+  },
+  {
+    "Name": "Bahia",
+    "Acronym": "BA",
+    "Area": 564733.177
+  },
+  {
+    "Name": "Ceará",
+    "Acronym": "CE",
+    "Area": 148920.472
+  },
+  {
+    "Name": "Distrito Federal",
+    "Acronym": "DF",
+    "Area": 5779.999
+  },
+  {
+    "Name": "Espírito Santo",
+    "Acronym": "ES",
+    "Area": 46095.583
+  },
+  {
+    "Name": "Goiás",
+    "Acronym": "GO",
+    "Area": 340111.783
+  },
+  {
+    "Name": "Maranhão",
+    "Acronym": "MA",
+    "Area": 331937.450
+  },
+  {
+    "Name": "Mato Grosso",
+    "Acronym": "MT",
+    "Area": 903366.192
+  },
+  {
+    "Name": "Mato Grosso do Sul",
+    "Acronym": "MS",
+    "Area": 357145.532
+  },
+  {
+    "Name": "Minas Gerais",
+    "Acronym": "MG",
+    "Area": 586522.122
+  },
+  {
+    "Name": "Pará",
+    "Acronym": "PA",
+    "Area": 1247954.666
+  },
+  {
+    "Name": "Paraíba",
+    "Acronym": "PB",
+    "Area": 56585.000
+  },
+  {
+    "Name": "Paraná",
+    "Acronym": "PR",
+    "Area": 199307.922
+  },
+  {
+    "Name": "Pernambuco",
+    "Acronym": "PE",
+    "Area": 98311.616
+  },
+  {
+    "Name": "Piauí",
+    "Acronym": "PI",
+    "Area": 251577.738
+  },
+  {
+    "Name": "Rio de Janeiro",
+    "Acronym": "RJ",
+    "Area": 43780.172
+  },
+  {
+    "Name": "Rio Grande do Norte",
+    "Acronym": "RN",
+    "Area": 52811.047
+  },
+  {
+    "Name": "Rio Grande do Sul",
+    "Acronym": "RS",
+    "Area": 281730.223
+  },
+  {
+    "Name": "Rondônia",
+    "Acronym": "Ro",
+    "Area": 237590.547
+  },
+  {
+    "Name": "Roraima",
+    "Acronym": "RR",
+    "Area": 224300.506
+  },
+  {
+    "Name": "Santa Catarina",
+    "Acronym": "SC",
+    "Area": 95736.165
+  },
+  {
+    "Name": "São Paulo",
+    "Acronym": "SP",
+    "Area": 248222.362
+  },
+  {
+    "Name": "Sergipe",
+    "Acronym": "SE",
+    "Area": 21915.116
+  },
+  {
+    "Name": "Tocantins",
+    "Acronym": "TO",
+    "Area": 277720.520
+  }
+]
